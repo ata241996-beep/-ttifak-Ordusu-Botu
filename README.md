@@ -1,2 +1,2 @@
-# -ttifak-Ordusu-Botu
+# ittifak ordusu
 *Made By, Reno.*
